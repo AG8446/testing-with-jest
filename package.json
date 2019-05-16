@@ -1,0 +1,22 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "npm projekt lab session",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AG8446/testing-with-jest.git"
+  },
+  "author": "AG8446",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AG8446/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/AG8446/testing-with-jest#readme"
+}

@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "webpack --progress --colors",
-    "start": "webpack --progress --colors",
+    "start": "webpack-cli --progress --colors",
     "test": "jest tests"
   },
   "repository": {
